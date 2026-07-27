@@ -29,15 +29,5 @@ When I am not designing circuits or working on Neuromorphic VLSI, I am likely wo
     A computer vision application designed to translate hand gestures into text/speech.
 *   **[Neuromorphic VLSI Simulation] *(Coming Soon)***  
     Feature extraction and spike encoding simulator for grid-forming inverters.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazmdx&show_icons=true&theme=radium" alt="Maaz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazmdx&layout=compact&theme=radium" alt="Top Languages" />
-</div>
-
 ---
 📫 **Let's Connect:** https://www.linkedin.com/in/mohame730/
